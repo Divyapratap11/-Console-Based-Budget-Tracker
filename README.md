@@ -1,2 +1,14 @@
-# -Console-Based-Budget-Tracker
-Design and implement a console-based budget tracker application that helps users manage  their income and expenses through a simple Command-Line Interface (CLI). This assignment  emphasizes object-oriented programming (OOP), file handling, and user interaction via the  console.
+Budget Tracker (CLI)
+A console-based budget tracker built with Python
+
+How to Run:
+1. Make sure Python 3 is installed
+2. Clone this repo
+3. Run: python main.py
+
+Features:
+- Add income/expense
+- View all transactions
+- Filter by type or category
+- View summary (total income, expenses, balance)
+- Save/load from transactions.txt
