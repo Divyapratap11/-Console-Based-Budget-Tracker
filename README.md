@@ -6,7 +6,7 @@ How to Run
 	1.	Make sure Python 3 is installed on your computer.
 	2.	Download or copy this project.
 	3.	Open the project folder in your terminal.
-  4.  Type: python main.py 
+        4.      Type: python main.py 
 
   
 What It Can Do
